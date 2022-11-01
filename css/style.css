@@ -1,0 +1,26 @@
+body{
+    height: 500px;
+    width: 540px;
+}
+
+#valor{
+    size: 40px;
+    border: 1px solid #000;
+}
+
+#temp{
+    border: 1px solid #000;
+}
+
+#segTemp{
+    border: 1px solid #000;
+}
+
+#resultado{
+    border:1px solid #000;
+    width: 30vw;
+}
+
+#P{
+    display: inline-block;
+}
